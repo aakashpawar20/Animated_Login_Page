@@ -1,1 +1,2 @@
-# Animated_Login_Page
+#This is animated login page.
+#Html and Css is used in this project 
